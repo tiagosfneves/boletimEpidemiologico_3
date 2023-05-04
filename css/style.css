@@ -1,0 +1,28 @@
+@import "confirmados.css";
+@import "atualizados.css";
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+/* main {
+    display: flex;
+
+}
+
+.dadosDetalhados{
+    width: 60%;
+    height: 500px;
+    background-color: rgb(228, 203, 203);
+
+}
+
+.dadosGerais {
+    width: 60%;
+    height: 500px;
+    background-color: rgb(190, 214, 187); 
+
+}
+ */

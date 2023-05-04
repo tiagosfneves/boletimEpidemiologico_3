@@ -1,0 +1,20 @@
+comandos DOS:
+
+cd ..  				(voltar nas pastas)
+cd 'nome da pasta'		(para entrar na pasta)
+
+
+comandos para publicar da maquina pro repositorio remoto
+
+git status					(visualiza alterações feitas);
+git add . 'nome do quer add'		(add conteudos no staging);
+git status					(visualiza add no staging feitas);
+git commit -m 'comentario'		(visualiza alterações feitas);
+git branch					(lista as branch do repositorio em questão);
+git branch 'nome da branch'		(muda para a branch escolhida);
+git push origin main			(faz a publicação na main do seu repositorio);
+git pull origin main			(faz atualização do repositorio local com o remoto);
+git 						();
+
+
+(WIN MERGE) = programa que faz merge de suas pastas e arquivos na maquina...

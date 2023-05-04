@@ -1,0 +1,7 @@
+Anotações e informações sobre o projeto
+
+
+extensão para contagotas - https://microsoftedge.microsoft.com/addons/detail/akcolor/efeoiofidbaaelodnlphnagalplaligg?hl=pt-BR
+
+site para saber nomes de atributos de CSS - https://www.w3schools.com/css/css_table.asp
+outras linguagens - https://www.w3schools.com/
